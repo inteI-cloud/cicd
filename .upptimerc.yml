@@ -1,32 +1,44 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
-repo: upptime # Your GitHub repository name
+owner: qmutz # Your GitHub organization or username
+repo: cicd # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Google
-    url: https://www.google.com
+    url: https://www.andiegogiap.com
   - name: Wikipedia
-    url: https://en.wikipedia.org
+    url: https://lntel.us
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
+  - name: x86-64.pw
+    url: https://x86-64.pw
+  - name: b00t_tk
+    url: https://b00t.tk
+  - name: b00t_ml
+    url: https://b00t.ml
+  - name: b00t.cf
+    url: https://b00t.cf
+  - name: b00t.ga
+    url: https://b00t.ga
+  - name: b00t.gq
+    url: https://b00t.gq
+  - name: BLOG
+    url: https://andiegogiap.com/blog
+  - name: HEAD
     method: HEAD
     url: https://www.google.com
   - name: Secret Site
     url: $SECRET_SITE
   - name: TCP ping
-    url: 1.1.1.1
+    url: 68.168.221.170
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: cicd.andiegogiap.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /cicd
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: cicd
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
