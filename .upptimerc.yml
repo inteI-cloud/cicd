@@ -4,24 +4,24 @@ repo: cicd # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.andiegogiap.com
-  - name: Wikipedia
-    url: https://lntel.us
+  - name: WP-ADMIN andiegogiap.com
+    url: https://andiegogiap.com/blog/wp-admin/
+  - name: b00t.xyz BLOG
+    url: https://b00t.xyz/blog/
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: x86-64.pw
-    url: https://x86-64.pw
+  - name: b00t.xyz
+    url: https://b00t.xyz/wp/
+  - name: b00t.xyz
+    url: https://b00t.xyz/wp/
+  - name: lntel.tk
+    url: https://lntel.tk/oc/
   - name: b00t_tk
     url: https://b00t.tk
-  - name: b00t_ml
-    url: https://b00t.ml
-  - name: b00t.cf
-    url: https://b00t.cf
-  - name: b00t.ga
-    url: https://b00t.ga
-  - name: b00t.gq
-    url: https://b00t.gq
+  - name: lntel.us
+    url: https://lntel.us
+  - name: lntel.us CMS
+    url: https://lntel.us/cms
   - name: BLOG
     url: https://andiegogiap.com/blog
   - name: HEAD
@@ -34,7 +34,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: cicd.andiegogiap.com
+  cname: github.com/inteI-cloud
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /cicd
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
