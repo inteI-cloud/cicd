@@ -1,7 +1,7 @@
 url: https://lntel.us/cms
-status: up
-code: 200
-responseTime: 309
-lastUpdated: 2022-05-17T23:03:05.680Z
+status: down
+code: 503
+responseTime: 68
+lastUpdated: 2022-05-18T05:56:49.083Z
 startTime: Fri Apr 16 2021 07:09:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
